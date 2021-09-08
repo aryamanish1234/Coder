@@ -1,0 +1,58 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(image2.jpg.jpg) no-repeat;
+    background-size: cover; 
+    background-position: center;
+  }
+
+
+  .specific
+  {
+    width: 314px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #FFB;
+    padding: 42px;
+    margin: 4% auto 0;
+    text-align: center;
+   
+  }
+  .specific h2
+  {
+      color: #1c8adb;
+      margin-bottom: 30px;
+      
+  }
+
+  .form-control{
+      border-radius: 20px;
+      padding: 10px;
+      margin: 10px 0;
+      width: 100%;
+      border: 1px solid #999;
+      outline: none;
+      
+  }
+  .taken-img
+  {
+    color: #9b2335 ;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+
+
+
+
+
+  }
+  
+  .btn-primary
+  {
+    
+    background-color: #1c8adb;
+
+  }
